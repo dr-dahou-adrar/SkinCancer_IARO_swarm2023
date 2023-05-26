@@ -7,3 +7,6 @@ ISIC-2016 (https://challenge.isic-archive.com/data)
 PH2 (https://www.fc.up.pt/addi/ph2%20database.html)
 
 HAM10000 (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+
+# Reference
+* This code is based on "EvoloPy-FS: An Open-Source Nature-Inspired Optimization Framework in Python for Feature Selection"
